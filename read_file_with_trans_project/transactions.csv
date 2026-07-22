@@ -1,0 +1,6 @@
+id,type,amount,currency
+1,deposit,100,USDT
+2,withdraw,50,USDT
+3,deposit,200,USDT
+4,withdraw,30,USDT
+5,deposit,150,USDT
